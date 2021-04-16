@@ -1,7 +1,7 @@
 ### <img alt="itsfine" src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width='40' align="left"/> Hi there!
 ![version :25.03.2021](https://img.shields.io/badge/version-16.04.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=tuliostarling&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/tuliostarling?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/tuliostarling?label=follow&style=social)](https://github.com/tuliostarling)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1542337527/4949/the_office.png?1542337527" width="50" align="left">
