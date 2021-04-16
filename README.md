@@ -28,9 +28,9 @@
 
 ### &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=tuliostarling&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=460/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=tuliostarling&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" width=450/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuliostarling&theme=radical" alt="arunsridher" width=460/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuliostarling&theme=radical" alt="arunsridher" width=450/></p>
  
 <br />
  
